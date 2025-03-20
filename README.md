@@ -58,7 +58,7 @@
 
 ---
 
-## ⚙️ Frameworks y Librerías  
+## ⚙️ Frameworks
 <img src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 
