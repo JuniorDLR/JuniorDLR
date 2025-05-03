@@ -29,19 +29,20 @@
   "habilidades": [
     "Escribir código limpio",
     "Resolución de problemas",
-    "Trabajo en equipo",
+    "Trabajo en equipo"
   ],
   "personalidad": [
     "Curioso",
     "Autodidacta",
-    "Creativo",
+    "Creativo"
   ],
   "aprendizaje_actual": {
-    "flutter": "Profundizando en Flutter para desarrollo multiplataforma",
+    "python": "Profundizando en Python para scripting y automatización",
     "arquitecturas_móviles": "Explorando arquitecturas avanzadas en aplicaciones móviles",
     "bases_datos_nosql": "Mejorando mis habilidades en bases de datos NoSQL"
   }
 }
+
 ```
 
 
